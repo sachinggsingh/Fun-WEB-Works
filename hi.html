@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="hi.css">
+</head>
+<body>
+    <header>
+        <nav>
+    <div class="left">Sachin's Portfolio</div>
+    <div class="right">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/">About</a></li>
+            <li><a href="/">Services</a></li>
+            <li><a href="/">Projects</a></li>
+            <li><a href="/">Contact Me</a></li>
+        </ul>
+    </div>
+</nav>
+</header>
+<main>
+    <section class="firstsection">
+        <div class="leftsection">
+            <div class="module">
+            Hi, I am <span id="sachin">Sachin</span>
+            <div>and I'm  a passionate  </div>
+            <span id="element"></span>
+        </div>
+
+            <div class="button">
+                <a href="resume.html">
+                    <button id="button1"><input
+                        type="button">Download Resume
+                    </button>
+                </a>
+                <a href="work.html">
+                    <button id="button1"><input type="button">Work Experience
+                    </button>
+                </a>
+                <button id="button2"><input type="button">Visit Github</button>
+            </div>
+           
+        </div>
+       
+        
+        
+        <div class="rightsection">
+            <img class="img" src="HD..jpg">
+        </div>
+       
+
+    </section>   
+    <hr id="style">
+<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+
+<!-- Setup and start animation! -->
+<script>
+  var typed = new Typed('#element', {
+    strings: ['Web Developer','Python Developer','Programmer'],
+    typeSpeed: 80,
+  });
+</script>
+</body>
+</html>
