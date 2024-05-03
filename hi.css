@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding :0;
+}
+ body{
+  background-image: url('ccc.jpg');
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+ }
+ nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    /* background-color: rgb(118, 109, 176); */
+    
+
+ }
+ #sachin{
+   color: rgb(60, 125, 112);
+ }
+
+ nav ul{
+    display: flex;
+    justify-content: center;
+ }
+ nav ul li{
+    list-style: none;
+    margin: 0 23px;
+ }
+ nav ul li a{
+    text-decoration: none;
+    color: rgb(220, 202, 202);
+ }
+ nav ul li a:hover{
+    color:rgb(116, 158, 208);
+    font-size: 1.1rem;
+ }
+ .left{
+   font-family: cursive;
+   font-style: italic;
+    font-size: 2.2rem;
+    color: rgb(52, 50, 97);
+    cursor: clickable;
+ }
+ .right{
+   font-family: cursive;
+ }
+ .firstsection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 110px;
+ }
+.leftsection
+{
+    width:55%;
+    font-size: 4.4rem;
+    margin: 10px 5px 15px 50px;
+    position: relative;
+}
+
+/* .leftsection.module{
+   padding-top: 5%; */
+
+.rightsection{
+    width: 30%;
+    position: relative;
+}
+.rightsection img{
+    width:85%;
+    margin:50px ;
+    border-radius:10%;
+}
+#element{
+    color: rgb(60, 125, 112);
+}
+.secondsection{
+    max-width: 80vw;
+    margin: auto;
+}
+
+#style{
+   background-color: white;
+   border: 0;
+   height: 1px;
+   margin: 40px 84px ;
+}
+h2{
+   color: rgb(55, 18, 18);
+}
+#button1{   
+   border-width: 3px;
+   font-family: cursive;
+   cursor: pointer;
+   /* border-radius: 15%/70%; */
+   border-style: solid;
+   border-image: linear-gradient(to right, rgb(68, 68, 174), darkorchid) 1;
+
+}
+#button2{
+   cursor: pointer;
+   font-family: cursive;
+   border-width: 3px;
+   /* border-radius: 15%/70%; */
+   border-style: solid;
+   border-image: linear-gradient(to right, rgb(68, 68, 174), darkorchid) 1;
+}
+
+   /* border-radius: 15%/70%;
+   padding: 4px 3px;
+   border: none;
+   cursor: pointer;
+   color: rgb(89, 145, 145);
+   font-size: 15px;
+   font-style: italic;
+   background-color: rgb(112, 100, 100);
+} */
+
+/* body {
+   height: 100vh;
+   margin: 0;
+   display: grid;
+   place-items: center;
+   background: #222;
+ } */
+ 
+ .module {
+   font-family: cursive;
+   max-width: 700px;
+   padding-top: 1%;
+   color: white;
+   border-width: 3px;
+   border-style: solid;
+   border-image: 
+     linear-gradient(
+       to bottom, 
+       rgb(42, 219, 183), 
+       rgb(129, 129, 133)
+     ) 1 100%;
+ }
+
+
