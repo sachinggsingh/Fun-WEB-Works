@@ -1,0 +1,140 @@
+@media only screen and (max-width: 600px) {
+    body{
+        color: #4e6e68;
+        margin: 0;
+        text-align: center;
+        font-family: 'Merriweather', serif;
+    
+    }
+    }
+    
+    h1{
+        color: #11999E;
+        font-size: 5.625rem;
+        margin-top: 50px auto 0 auto;
+        font-family: 'Sacramento', cursive;
+    
+    }
+    
+    h2{
+        color: #11999E;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2.5rem; 
+    
+    }
+    
+    h3{
+        color: 11999E;
+        font-family: 'Montserrat', sans-serif;
+    
+    }
+    
+    
+    .top-container{
+        background-color: #d2d7d8;
+        position: relative;
+        padding: 110px;
+    }
+    
+    .introduction{
+        background-color: #ffffff;
+        width: 30%;
+        margin: auto;
+    }
+    
+    .middle-container{
+        background-color: #ffffff;
+        margin: 100px 0 100px 0;
+    }
+    
+    .bottom-container{
+        background-color: #d2d7d8;
+        padding: 50px 0 20px;   
+    }
+    .web{
+        text-decoration: underline;
+    }
+    
+    .top-cloud{
+        position: absolute;
+        left: 700px;
+        top: 40px;
+    }
+    
+    .bottom-cloud{
+        position: absolute;
+        left: 200px;
+    }
+    
+    p{
+        line-height: 2;
+    }
+    
+    hr{
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 6%;
+    margin: 100px auto;
+    }
+    
+    .skill-row{
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: left;
+       
+    }
+    
+    .web-img{
+        width: 25%;
+        float: left;
+        margin-right: 30px;
+    }
+    
+    .java-img{
+        width: 25%;
+        float: right;
+        margin-right: 30px;
+        margin-left: 30px;
+    }
+    
+    
+    .get-in-touch-text{
+        width: 40%;
+        margin: 40px auto 60px;
+    }
+    
+    .btn {
+        background: #639c9c;
+        border-radius: 10px;
+        font-family: 'Montserrat', sans-serif;
+        color: #ffffff;
+        font-size: 18px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #65bdb1;
+        text-decoration: underline;
+      }
+    
+      
+    .link{
+          color: #66a5c5;
+          font-family: 'Montserrat', sans-serif;
+          margin:10px 20px;
+          text-decoration: none;
+        }
+    .link:hover{
+            color: #274242;
+        }
+        
+    .copyright{
+            color: #000000;
+            font-size: 0.75rem;
+            padding: 20px 0;
+        }
