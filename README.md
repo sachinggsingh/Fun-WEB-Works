@@ -1,3 +1,3 @@
 Hi, there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> <br>
 <p>Welcome to My </p>
-<h2>Portfolio</h2><h2>Projects</h2>
+<h2>Portfolio  Projects</h2>
