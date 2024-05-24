@@ -1,23 +1,4 @@
 <head>
-  <style>
-* {
-/*   box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table; */
-}
-</style>
-
 Hi, there   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> <br>
 <p>Welcome to My </p>
 <b><i>Portfolio  Projects</i></b>
