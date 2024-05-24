@@ -3,4 +3,4 @@ Hi, there <img src="https://user-images.githubusercontent.com/18350557/176309783
 <h2>Portfolio  Projects</h2>
 <br>
 <p>I'm actually into DSA but I do make something <i>intersting</i> in <b>HTML, CSS and Javascript</b></p><br>
-<img src="https://media1.tenor.com/m/_orlGabJGLIAAAAC/1.gif">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
