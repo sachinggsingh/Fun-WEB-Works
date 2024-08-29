@@ -1,0 +1,77 @@
+*{
+    background-color: rgb(116, 141, 216);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.container
+{
+    /* background-color: blueviolet; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container h1
+{
+    font-size: 50px;
+    margin-bottom: 40px;
+    color: rgb(60, 57, 57);
+}   
+.otp-display
+{
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.otp-display h3
+{
+    font-size: 25px;
+    margin-bottom: 20px;
+    color: #6c6969;
+}
+.otp-display input
+{
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+input
+{
+    border: none;
+    font-size: 25px;
+    padding: 10px 20px;
+    margin-top:10px;
+    border-radius: 10px;
+    background-color: white;
+}
+.btn-otp
+{
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+button
+{
+    cursor: pointer;
+    border: none;
+    background-color: rgb(66, 129, 80);
+    color: white;
+    font-size: 25px;
+    padding: 10px 20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+button:hover
+{
+    background-color: rgb(66, 129, 80);
+    color: white;
+    transition: 0.3s;
+    transform: scale(1.2);
+    box-shadow: 2px 4px rgb(143, 157, 146);
+}
